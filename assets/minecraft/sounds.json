@@ -1,0 +1,11 @@
+{
+    "music.game": {
+	    "category": "music",
+	    "sounds": [
+		    {
+			    "name": "music/game/MainTheme.ogg",
+			    "stream": true
+		    }
+	    ]
+    }
+}
