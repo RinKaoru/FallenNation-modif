@@ -1,0 +1,22 @@
+{
+    "display":  {
+        "icon": {
+            "item": "fusion:steel_ingot"
+        },
+        "title": {
+            "translate": "advancements.fusion_welcome"
+        },
+        "description": {
+            "translate": "advancements.fusion_welcome"
+        },
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria" : {
+    	"impossible" : {
+      		"trigger": "minecraft:impossible"
+    	}
+    }
+}
+ 
