@@ -1,0 +1,34 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "particle": "industrialrenewal:blocks/pipe"
+    }
+  },
+  "variants": {
+    "normal": {
+      "model": "industrialrenewal:smartmodel/turbine_pillar"
+    },
+    "facing": {
+      "north": {
+        "model": "industrialrenewal:smartmodel/turbine_pillar"
+      },
+      "south": {
+        "model": "industrialrenewal:smartmodel/turbine_pillar",
+        "y": 180
+      },
+      "east": {
+        "model": "industrialrenewal:smartmodel/turbine_pillar",
+        "y": 90
+      },
+      "west": {
+        "model": "industrialrenewal:smartmodel/turbine_pillar",
+        "y": -90
+      }
+    },
+    "inventory": {
+      "model": "industrialrenewal:small_wind_turbine_pillar",
+      "transform": "forge:default-block"
+    }
+  }
+}
