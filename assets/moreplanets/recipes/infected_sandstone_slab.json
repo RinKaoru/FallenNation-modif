@@ -1,0 +1,15 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "XXX"
+    ],
+    "key": {
+        "X": {
+            "item": "#SANDSTONENIBIRU"
+        }
+    },
+    "result": {
+        "item": "moreplanets:infected_sandstone_slab",
+        "count": 6
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "group": "upgrade",
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " D ",
+        "DTD",
+        " D "
+    ],
+    "key": {
+        "D": {
+            "item": "#COMPRESSEDDESH"
+        },
+        "T": {
+            "item": "#COMPRESSEDTITANIUM"
+        }
+    },
+    "result": {
+        "item": "moreplanets:upgrade_template"
+    }
+}

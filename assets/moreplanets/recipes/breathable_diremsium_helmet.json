@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "XXX",
+        "XYX"
+    ],
+    "key": {
+        "Y": {
+            "item": "galacticraftcore:oxygen_mask"
+        },
+        "X": {
+            "item": "moreplanets:compressed_diremsium"
+        }
+    },
+    "result": {
+        "item": "moreplanets:breathable_diremsium_helmet"
+    }
+}

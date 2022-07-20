@@ -1,0 +1,19 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "XXX",
+        "XAX",
+        "XXX"
+    ],
+    "key": {
+        "X": {
+            "item": "#INGOTGOLD"
+        },
+        "A": {
+            "item": "moreplanets:alien_berry"
+        }
+    },
+    "result": {
+        "item": "moreplanets:golden_alien_berry"
+    }
+}
