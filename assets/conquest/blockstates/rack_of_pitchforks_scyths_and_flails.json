@@ -1,0 +1,1 @@
+{"forge_marker":1,"defaults":{"model":"conquest:7_tools/rack","textures":{"rack":"conquest:blocks/7_tools/racks/rack","tool":"conquest:blocks/7_tools/racks/rack_of_pitchforks_scyths_and_flails","tool_1":"conquest:blocks/7_tools/racks/rack_of_pitchforks_scyths_and_flails_1"}},"variants":{"inventory":[{}],"facing":{"east":{"y":90},"west":{"y":270},"south":{"y":180},"north":{}}}}

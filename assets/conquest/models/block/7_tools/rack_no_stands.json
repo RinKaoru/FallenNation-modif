@@ -1,0 +1,1 @@
+{"textures":{"particle":"#rack","rack":"#rack"},"elements":[{"__comment":"PlaneZ7","from":[0,0,1],"to":[16,16,1.001],"faces":{"north":{"uv":[0,0,16,16],"texture":"#rack"},"south":{"uv":[0,0,16,16],"texture":"#rack"}}}]}

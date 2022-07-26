@@ -1,0 +1,1 @@
+{"forge_marker":1,"defaults":{"model":"conquest:7_tools/empty_rack","textures":{"rack":"conquest:blocks/7_tools/racks/rack"}},"variants":{"inventory":[{}],"facing":{"east":{"y":90},"west":{"y":270},"south":{"y":180},"north":{}}}}

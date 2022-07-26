@@ -1,0 +1,1 @@
+{"variants":{"facing=north":{"model":"conquest:furnacedesert"},"facing=south":{"model":"conquest:furnacedesert","y":180},"facing=west":{"model":"conquest:furnacedesert","y":270},"facing=east":{"model":"conquest:furnacedesert","y":90}}}

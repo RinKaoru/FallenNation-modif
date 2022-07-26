@@ -1,0 +1,1 @@
+{"textures":{"particle":"conquest:blocks/glasspane4","side":"conquest:blocks/glasspane4"},"elements":[{"from":[7,0,8],"to":[9,16,8.0625],"faces":{"north":{"uv":[9,0,7,16],"texture":"#side"}}}]}

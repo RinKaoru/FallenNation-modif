@@ -1,0 +1,1 @@
+{"variants":{"facing=north":{"model":"conquest:rockladder"},"facing=east":{"model":"conquest:rockladder","y":90},"facing=south":{"model":"conquest:rockladder","y":180},"facing=west":{"model":"conquest:rockladder","y":270}}}

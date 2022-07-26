@@ -1,0 +1,1 @@
+{"textures":{"particle":"conquest:blocks/arrowslit","side":"conquest:blocks/arrowslit"},"elements":[{"from":[8,0,9],"to":[8.0625,16,16],"faces":{"west":{"uv":[7,0,0,16],"texture":"#side"},"east":{"uv":[0,0,7,16],"texture":"#side"}}}]}
